@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 3h | 1 |
+| Week 1 | Tier 1 | 2h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-05 — October 5th: Requiem XT Gaming Controller
 
-**3h**
+**2h**
 
 October 5th: Requiem XT Gaming Controller
 
@@ -59,4 +59,4 @@ But who would have thought just adding few x on unused pins will lower errors to
 Main Thing As complete beginner was understanding how the whole KiCad works if i haven’t spend a full day learning before half life started,
 this it would have taken whole day.
 
-Time Spent This Session: 3 Hour
+Time Spent This Session: 2 Hour
