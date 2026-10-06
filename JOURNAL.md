@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-05 — October 5th: Requiem XT Gaming Controller](#2026-10-05-october-5th-requiem-xt-gaming-controller)
-2. [2026-10-06 — October 9: ADC Pin Trouble](#2026-10-06-october-9-adc-pin-trouble)
+2. [2026-10-06 — October 6: ADC Pin Trouble](#2026-10-06-october-6-adc-pin-trouble)
 
 ## Design
 
@@ -62,11 +62,11 @@ this it would have taken whole day.
 
 Time Spent This Session: 3 Hour
 
-### 2026-10-06 — October 9: ADC Pin Trouble
+### 2026-10-06 — October 6: ADC Pin Trouble
 
 **5h**
 
-October 9: ADC Pin Trouble
+October 6: ADC Pin Trouble
 
 I Started today's session with solving remaining Electrical rule errors and adding the last joystick but i just found out joystick requires 2 ADC pins to connect but Raspberry Pi Pico only exposes 3 of those pins.
 I did bit of researching and the only options i found are either i have to use analog multiplexer IC or external I2C/SPI ADC chip which i don’t want because that will make things a lot complicated and budget might also break.
