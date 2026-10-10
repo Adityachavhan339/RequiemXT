@@ -18,4 +18,4 @@ PCB Image:
 
 ## Project Status
 
-PCB design is complete and i will be start to write Firmware for controller.
+Firmware In Progress, Controller Frame Design Will Start Soon 
