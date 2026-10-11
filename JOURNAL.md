@@ -16,7 +16,7 @@
 
 1. [2026-10-05 – October 5th: Requiem XT Gaming Controller](#2026-10-05-october-5th-requiem-xt-gaming-controller)
 2. [2026-10-06 – October 6: ADC Pin Trouble](#2026-10-06-october-6-adc-pin-trouble)
-3. [2026-10-07 – In Today's Session i started with opening PCB editor it was okay little complicated but i started positioning all buttons in a controller layout which was quite quick i quickly added all buttons in po](#2026-10-07-in-todays-session-i-started-with-opening-pcb-edit)
+3. [2026-10-07 – October 7: PCB Done](#2026-10-07-october-7-pcb-done)
 
 ## Design
 
@@ -103,9 +103,11 @@ What I learnt in this session: Read KiCad Import instructions carefully a small 
 
 Time Spent This Session: 5 Hours
 
-### 2026-10-07 – In Today's Session i started with opening PCB editor it was okay little complicated but i started positioning all buttons in a controller layout which was quite quick i quickly added all buttons in po
+### 2026-10-07 – October 7: PCB Done
 
 **2.5h**
+
+October 7: PCB Done
 
 In Today's Session i started with opening PCB editor it was okay little complicated but i started positioning all buttons in a controller layout which was quite quick i quickly added all buttons in position.
 
