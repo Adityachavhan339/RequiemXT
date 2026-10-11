@@ -19,7 +19,7 @@
 | [Robocraze PS2 Joystick Module Dual Axis Analog Sensor Push Button Switch](https://amzn.in/d/06HGvXh2) | Can't Make A Controller Without Joystick | 2 | $2.87 | $5.74 | [Amazon](https://amzn.in/d/06HGvXh2) |
 | [Custom 2-Layer Controller Carrier Board](https://zbotic.in/) | PCB Itself | 1 | $9.75 | $9.75 | [Zbotic Portal](https://zbotic.in/) |
 | **Parts subtotal** | — | — | — | **$26.37** | — |
-| **Tax & shipping** | — | — | — | **$2.10** | — |
-| **Total** | — | — | — | **$28.47** | — |
+| **Tax & shipping** | — | — | — | **$3.10** | — |
+| **Total** | — | — | — | **$29.47** | — |
 
-$1.53 left of the tier's funding.
+$0.53 left of the tier's funding.
