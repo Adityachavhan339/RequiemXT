@@ -14,12 +14,11 @@
 | --- | --- | --- | --- | --- | --- |
 | [Waveshare RP2040-Zero Raspberry Pi MCU With Pre Soldered Header](https://sharvielectronics.com/product/waveshare-rp2040-zero-raspberry-pi-mcu-with-pre-soldered-header/) | Microcontroller | 1 | $5.66 | $5.66 | [Sharvi Electronics](https://sharvielectronics.com/product/waveshare-rp2040-zero-raspberry-pi-mcu-with-pre-soldered-header/) |
 | [Electronic Spices 6 X 6 X 5mm Blue Color Touch Transient Horn Type Push Button Switch Pack of 20pcs](https://amzn.in/d/009M5XzV) | Controller Buttons | 1 | $1.00 | $1.00 | [Amazon](https://amzn.in/d/009M5XzV) |
-| [Electronic spices 4 in 1 soldering iron kit for startup with/solder iron 25W /desolder wire/soldering wire/soldering](https://amzn.in/d/078g4BXi) | For Soldering | 1 | $2.68 | $2.68 | [Amazon](https://amzn.in/d/078g4BXi) |
 | [Jumper Wire Female From Female (40 pcs)](https://amzn.in/d/00hSkNVG) | For Connecting Buttons And Joysticks To Controller | 1 | $1.54 | $1.54 | [Amazon](https://amzn.in/d/00hSkNVG) |
 | [Robocraze PS2 Joystick Module Dual Axis Analog Sensor Push Button Switch](https://amzn.in/d/06HGvXh2) | Can't Make A Controller Without Joystick | 2 | $2.87 | $5.74 | [Amazon](https://amzn.in/d/06HGvXh2) |
 | [Custom 2-Layer Controller Carrier Board](https://zbotic.in/) | PCB Itself | 1 | $9.75 | $9.75 | [Zbotic Portal](https://zbotic.in/) |
-| **Parts subtotal** | — | — | — | **$26.37** | — |
+| **Parts subtotal** | — | — | — | **$23.69** | — |
 | **Tax & shipping** | — | — | — | **$3.10** | — |
-| **Total** | — | — | — | **$29.47** | — |
+| **Total** | — | — | — | **$26.79** | — |
 
-$0.53 left of the tier's funding.
+$3.21 left of the tier's funding.
