@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-07T12:07:07.525Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuuuymwq0at301smfi1160jm). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > RequiemXT is a custom wired USB game controller with dual Hall-effect joysticks, 14 buttons, and an SSD1306 OLED display.
 
