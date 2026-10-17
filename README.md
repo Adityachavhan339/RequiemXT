@@ -29,7 +29,7 @@ The schematic and PCB were made in KiCad.
 
 ##FIRMWARE
 
-I Never Have Wrote Firmware nor anything in C so still working on it. Though I Will Upload A Compatibly Opensource Firmware for anyone who doesn't want to use what i will write 😅( Don't Use it i don't even know what i am going to do)
+I Never Have Wrote Firmware nor anything in C so still working on it. Though I Will Upload A Compatible Opensource Firmware for anyone who doesn't want to use what i will write 😅( Don't Use it i don't even know what i am going to do)
 
 ## AI DISCLOSURE
 AI Didn't Made It, I Made It.
